@@ -1,4 +1,4 @@
-# Obesity Risk Prediction ML Model
+# Obesity Risk Prediction Machine Learning Model
 
 A machine learning project for multi-class classification of obesity levels based on lifestyle, dietary habits, and physical attributes. This project is designed for the Kaggle competition on obesity risk prediction.
 
@@ -135,3 +135,4 @@ The ensemble approach with SMOTE balancing achieves competitive cross-validation
 - The dataset contains some inconsistent values in categorical columns (e.g., "yess" instead of "yes") which are handled during preprocessing
 - GPU acceleration is available for XGBoost when running on systems with NVIDIA GPUs
 - SMOTE oversampling is applied to handle class imbalance in the training data
+
